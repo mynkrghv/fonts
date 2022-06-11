@@ -1,0 +1,48 @@
+/*font-family*/
+p{
+	font-family: arial;
+}
+
+h1{
+	font-family: georgia;
+}
+
+/*font size*/
+
+h1{
+	font-size: 100px;
+}
+
+/*font weight*/
+/*decides the thickness and thiness of font*/
+
+p{
+	font-weight: bold;
+}
+
+/*line height*/
+/*decides the height or the gap between the lines and value is the times of the existing value*/
+
+p{
+	line-height: 2;
+}
+
+/*text align*/
+
+h1{
+	text-align: right;
+}
+
+p{
+	text-align: center;
+}
+
+/*text decorator*/
+
+p{
+	text-decoration: underline;
+}
+
+h1{
+	text-decoration: line-through;
+}
